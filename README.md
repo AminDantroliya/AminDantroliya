@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @AminDantroliya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AminDantroliya/AminDantroliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in New App Creation. 
+- 🌱 I’m currently working as a Flutter Developer
+- 💞️ I’m looking to collaborate on Open Source Flutter projects, Custom UI Packages, and Cross-Platform App Architectures.
+- 📫 How to reach me: amin997te6e@gmail.com or connect with me on https://www.linkedin.com/in/amin-dantroliya-9463b0368
